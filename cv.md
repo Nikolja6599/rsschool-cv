@@ -17,3 +17,11 @@
  `{ return a * b}` 
 ## Experience
   * No work experience
+  ## Education
+   * Branch "Minsk State Automotive
+College named after academician M.S. Vysotsky "
+educational institution "Republican Institute of Professional Education"
+
+
+## Language
+* English level A0
