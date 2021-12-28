@@ -7,3 +7,13 @@
 * Discord - Nikolay Zaitsev#0250
 * Telegram -@Nikolja6599
 * Phone -375296599825
+## About myself
+> *Now I work in the Ministry of Emergencies. This course is my first acquaintance with the IT industry. Now the goal is to study this material and in the future to become a specialist in this area*
+## Skills
+* HTML
+* CSS
+## Code example
+  `function multiply(a, b)`  
+ `{ return a * b}` 
+## Experience
+  * No work experience
