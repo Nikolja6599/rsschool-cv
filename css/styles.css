@@ -86,20 +86,24 @@ margin: 10px 0px 20px 0px;
 .foother_text {
    color: rgb(0, 0, 0);
    font-size: 20px;
+}
    
+   
+.foother_image {}
+.fother_git{}
 
-  
-}
-.foother_image {
-}
-.fother_git
-{
 
-}
+
+
 .main{
    
-   font-size: 20px;
+   font-size: 25px;
    padding: 10px 10px 10px 30px;
-   margin: 20px 10px 20px 330px
+   margin: 20px 10px 20px 330px;
 
+}
+.cont{
+   text-shadow: 1px 1px 0;
+   font-size: 30px;
+   padding: 20px 0;
 }
