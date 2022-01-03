@@ -57,7 +57,21 @@ body{
    margin: 0px 0px 40px 0px;
 
 }
+
+
 .hi_list {
+   text-shadow: 0.5px 0.5px 0;
+   font-size: 30px;
+  text-align: left;
+   
+}
+
+
+.hi_list li {
+text-shadow: 1px 1px 0;
+font-size: 20px;
+padding: 0px 0px 0px 30px;
+margin: 10px 0px 20px 0px;
 }
 .hi_image {
 }
@@ -65,7 +79,7 @@ body{
 }
 .footer_row {
    display: flex;
-   height: 65px;
+   height: 50px;
    justify-content: space-between;
    align-items: center;
 }
@@ -77,4 +91,15 @@ body{
   
 }
 .foother_image {
+}
+.fother_git
+{
+
+}
+.main{
+   
+   font-size: 20px;
+   padding: 10px 10px 10px 30px;
+   margin: 20px 10px 20px 330px
+
 }
